@@ -1,0 +1,24 @@
+{
+  "name": "anabiAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "express": "~4.12.4",
+    "jade":"1.11.0",
+    "mongodb":"~2.0.35"
+  },
+  "scripts" :{
+    "start":"nodemon ./index.js"
+  },
+  "repository":{
+      "type":"git",
+      "url":"https://github.com/yosama/anabiAPI.git"
+  },
+  "author": "Yosnier Samon",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/yosama/anabiAPI/issues"
+  },
+  "homepage": "https://github.com/yosama/anabiAPI
+}
