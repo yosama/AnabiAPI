@@ -5,6 +5,9 @@
   "private": true,
   "dependencies": {
     "express": "~4.12.4",
+    "method-override":"*", 
+    "body-parser": "1.8",
+    "errorhandler": "*",
     "jade":"1.11.0",
     "mongodb":"~2.0.35"
   },
@@ -20,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/yosama/anabiAPI/issues"
   },
-  "homepage": "https://github.com/yosama/anabiAPI
+  "homepage": "https://github.com/yosama/anabiAPI"
 }
